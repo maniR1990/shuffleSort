@@ -46,8 +46,6 @@ Say what the step will be
 1. clone the repo
 2. yarn install / npm install
 ```
-End with an example of getting some data out of the system or using it for a little demo
-
 ## start application
 
 npm run start / npm start
