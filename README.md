@@ -56,7 +56,7 @@ npm run start / npm start
 
 ## Authors
 
-* **Manikandan Rajendran** - *Initial work* - [PurpleBooth](https://github.com/maniR1990)
+* **Manikandan Rajendran** - (https://github.com/maniR1990)
 
 
 
